@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # newVue2.x
 =======
 # vue-router
@@ -23,3 +24,6 @@ npm run build --report
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 >>>>>>> router
+=======
+# textRouter
+>>>>>>> 979e42bf6b50bda2ef43f90a271e7a2e3669fd3a
